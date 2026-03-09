@@ -93,4 +93,4 @@ Lahore, Pakistan
 
 ---
 
-⭐ Always open to collaboration on web development, automation systems, and modern web applications.
+⭐ Always open to collaboration on web development, AI automation systems, and modern web applications.
